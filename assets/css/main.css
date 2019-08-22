@@ -3076,10 +3076,10 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:before {
-						background: #4acaa8;
-						color: #ffffff;
+						background: #d46262;
+						color: #000000;
 						content: '\f0c9';
-						display: block;
+						display: ruby-base-container;
 						font-size: 18px;
 						height: 44px;
 						line-height: 44px;
