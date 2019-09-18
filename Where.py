@@ -1,0 +1,5 @@
+user_input = input("WHat is your Name? ")
+User_age = input("What is your age? ")
+hobby = input("What is favorite thing to do ")
+print(f"Hello {user_input}, you really are {User_age}, I didnt know your hobby was {hobby}")
+print(f"I HOPE YOU ENJOY BASE CAMP {user_name}!!!!!")
